@@ -13,3 +13,15 @@ For this exercise, you will be using data from the [sample_data/](/../../tree/ma
 
 ## Questions or Issues?
 Please use the [Issues](/../../issues) tab to report any issues or ask questions. Any feedback is welcome!
+
+## Week 1 exercise = Guillermo Jaurena
+
+1 - fork the github base material
+
+2 - git clone for local edit
+
+3 - edit in visual studio code
+
+4 - create a new file for the solution
+
+5 - New file is called week1-csv-to-json.ipynb 
