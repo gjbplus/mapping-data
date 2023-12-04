@@ -9,12 +9,8 @@ This repository is part of the Coursera course: [Python, Bash and SQL Essentials
 4. Setup a provisioned Python project environment
 
 ## Exercise
-For this exercise, you will be using data from the [sample_data/](/../../tree/main/sample_data) and the [exercise.ipynb](/../../tree/main/exercise.ipynb) notebook. The notebook contains pre-written code that you can use to complete the exercise. Please refer to the Coursera instructions for details on how to complete this exercise.
 
-## Questions or Issues?
-Please use the [Issues](/../../issues) tab to report any issues or ask questions. Any feedback is welcome!
-
-## Week 1 exercise = Guillermo Jaurena
+## Week 1 exercise: Guillermo Jaurena
 
 1 - fork the github base material
 
@@ -33,3 +29,5 @@ Please use the [Issues](/../../issues) tab to report any issues or ask questions
 8 - added code for save in json file the queries
 
 9 - Created three new json files 
+
+10 - commit and push to origin main
