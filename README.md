@@ -24,4 +24,12 @@ Please use the [Issues](/../../issues) tab to report any issues or ask questions
 
 4 - create a new file for the solution
 
-5 - New file is called week1-csv-to-json.ipynb 
+5 - New file is called week1-csv-to-json.ipynb
+
+6 - load csv file, filter result by items a, b, c
+
+7 - commit and push to origin main
+
+8 - added code for save in json file the queries
+
+9 - Created three new json files 
